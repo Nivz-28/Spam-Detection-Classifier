@@ -43,6 +43,8 @@
 
 The SMS Spam Detection project uses a dataset containing labeled examples of spam and non-spam text messages. You can find the dataset in the data directory of this repository. The dataset includes two main columns:
 
+You can also download the dataset from : https://www.kaggle.com/datasets/uciml/sms-spam-collection-dataset
+
 text: This column contains the text of the SMS messages.
 label: This column specifies whether the SMS is spam (spam) or non-spam (ham).
 You can use this dataset for training and evaluating the SMS Spam Detection model. To explore or modify the dataset, you can refer to the CSV files in the archive zip.

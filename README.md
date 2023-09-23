@@ -43,15 +43,15 @@
 You can use this SMS Spam Detection application to classify text messages as spam or non-spam (ham). Follow these steps to use the application:
 
 Step 1: Clone the repository to your local machine:
-
+```sh
 git clone https://github.com/yourusername/sms-spam-detection.git
 
 Step 2: Navigate to the project directory:
-
+```sh
 cd sms-spam-detection
 
 Step 3: Install the required dependencies by running:
-
+```sh
 pip install -r requirements.txt
 
 ## Data

@@ -1,6 +1,4 @@
-# Spam-Detection-Classifier
-
-# SMS Spam Detection Project 📱🚫
+# SMS Spam Detection Project📱🚫
 
 ## Table of Contents
 

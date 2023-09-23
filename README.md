@@ -9,12 +9,12 @@
 - [Getting Started](#getting-started)
   - [Prerequisites](#prerequisites)
   - [Installation](#installation)
-- [Usage](#usage)
 - [Data](#data)
 - [Preprocessing](#preprocessing)
 - [Training](#training)
 - [Evaluation](#evaluation)
 - [Results](#results)
+- [Usage](#usage)
 
 ## About the Project
 
@@ -38,21 +38,6 @@
 1. Clone the repo
    ```sh
    git clone https://github.com/yourusername/sms-spam-detection.git
-
-## Usage
-You can use this SMS Spam Detection application to classify text messages as spam or non-spam (ham). Follow these steps to use the application:
-
-Step 1: Clone the repository to your local machine:
-```sh
-git clone https://github.com/yourusername/sms-spam-detection.git
-
-Step 2: Navigate to the project directory:
-
-cd sms-spam-detection
-
-Step 3: Install the required dependencies by running:
-
-pip install -r requirements.txt
 
 ## Data
 
@@ -84,3 +69,18 @@ Accuracy: 98.03%
 Precision (spam): 0.97
 Recall (spam): 0.88
 F1-score (spam): 0.92
+
+## Usage
+You can use this SMS Spam Detection application to classify text messages as spam or non-spam (ham). Follow these steps to use the application:
+
+Step 1: Clone the repository to your local machine:
+```sh
+git clone https://github.com/yourusername/sms-spam-detection.git
+
+Step 2: Navigate to the project directory:
+
+cd sms-spam-detection
+
+Step 3: Install the required dependencies by running:
+
+pip install -r requirements.txt

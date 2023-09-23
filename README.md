@@ -47,11 +47,11 @@ Step 1: Clone the repository to your local machine:
 git clone https://github.com/yourusername/sms-spam-detection.git
 
 Step 2: Navigate to the project directory:
-```sh
+
 cd sms-spam-detection
 
 Step 3: Install the required dependencies by running:
-```sh
+
 pip install -r requirements.txt
 
 ## Data
